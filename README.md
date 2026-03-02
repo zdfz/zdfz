@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400"/>
+</div>
+
 ## About Me
 
 I'm an Artificial Intelligence student passionate about turning data into impact.
@@ -42,6 +46,10 @@ I also wear the CTO hat at Rafad 🛠️, where I blend tech and vision to build
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrhman-blue?logo=linkedin)](https://www.linkedin.com/in/abdulrhmanalshehriai/)
 
 ## 🌐 Socials:
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdulrhmanalshehri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulrhman20022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdulrhmanalshehriai/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wxcs9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ds_a10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@joseph_goldberg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AbdulrhmanAlshehri.AI@gmail.com) 
 
 # 💻 Tech Stack:
