@@ -2,7 +2,7 @@
 
 🎓 AI Student @ Imam Abdulrahman Bin Faisal University · GPA 4.4/5.0 · Class of 2026
 🤖 Computer Vision · Deep Learning · Data Analytics
-☁️ AWS Cloud Club Captain · 🏆 KAUST AI Specialization Graduate
+☁️ AWS Cloud Club Captain · 🏆 KAUST AI Specialization 
 
 ---
 
