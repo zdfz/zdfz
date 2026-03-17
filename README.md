@@ -18,10 +18,13 @@
 
 ## 🔧 Tech Stack
 
-**ML & AI**  PyTorch · TensorFlow · scikit-learn · OpenCV · YOLOv8
-**Data**     NumPy · Pandas · Matplotlib · Jupyter Notebook
-**Cloud**    AWS (SageMaker · EC2 · S3) · Render · Netlify
-**Languages** Python · C++ · Java · JavaScript
+| Category  | Tools & Technologies |
+|-----------|----------------------|
+| **ML & AI** | PyTorch · TensorFlow · scikit-learn · OpenCV · YOLOv8 |
+| **Data** | NumPy · Pandas · Matplotlib · Jupyter Notebook |
+| **Cloud** | AWS (SageMaker · EC2 · S3) · Render · Netlify |
+| **Languages** | Python · C++ · Java · JavaScript |
+
 
 ---
 
